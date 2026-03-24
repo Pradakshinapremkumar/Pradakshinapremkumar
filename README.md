@@ -55,13 +55,6 @@ I build end-to-end AI systems that integrate large language models with real-wor
 
 ---
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Pradakshinapremkumar\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pradakshinapremkumar\&layout=compact\&theme=tokyonight)
-
----
 
 ## 📚 Publications
 
