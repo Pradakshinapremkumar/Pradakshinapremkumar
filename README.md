@@ -56,7 +56,7 @@ I build end-to-end AI systems that integrate large language models with real-wor
 ---
 
 
-## 📚 Publications
+## 📚 Publications and Research
 
 * Hairstyle Recommender using CNN – ETLTC-ICETM 2025
 * Blockchain-based Personal Identification System – ICAC-50
